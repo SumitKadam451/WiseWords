@@ -1,0 +1,60 @@
+body {
+  background-image: url("parchment.webp");
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+  border-radius: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  align-items: center;
+  margin: auto;
+  text-align: center;
+  border-radius: 30px;
+  height: 350px; 
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+#advice {
+  align-items: center;
+  height: 200px; 
+  width: 80%; 
+  margin-top: 20px;
+  padding: 20px; 
+  background-color: #fff;
+  border: 2px solid #ccc;
+  border-radius: 20px;
+  font-size: 20px;
+  overflow-y: auto;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px; 
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #4CAF50; 
+  color: white;
+  margin: 0 10px; 
+}
+
+button:hover {
+  background-color: #00ff1e; 
+}
