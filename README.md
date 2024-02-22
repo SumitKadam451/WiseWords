@@ -24,7 +24,7 @@ Transform your browsing experience with WiseWord, the Chrome extension that brin
 
 ![App Screenshot](https://github.com/SumitKadam451/WiseWords/blob/main/Screenshot--1.png)
 
-![App Screenshot](https://github.com/SumitKadam451/WiseWords/blob/main/Screenshot--2.png)
+![App Screenshot](https://github.com/SumitKadam451/WiseWords/blob/main/Screenshot--1.2.png)
 
 
 ## 🚀 About Me
